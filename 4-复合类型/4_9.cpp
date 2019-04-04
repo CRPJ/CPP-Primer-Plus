@@ -24,7 +24,7 @@ int main()
 
     cout << "example[1].name = " << example[1].name <<endl;
     cout << "example[1].weight = " << example[1].weight << endl;
-    cout << "example[1].calories = " << example[1].calories << endl;\
+    cout << "example[1].calories = " << example[1].calories << endl;
 
     cout << "example[2].name = " << example[2].name << endl;
     cout << "example[2].weight = " << example[2].weight << endl;
